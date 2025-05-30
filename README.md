@@ -1,4 +1,4 @@
-# A-Flip-Away-Escape-To-Reality-Unity-Build
+# A Flip Away: Escape To Reality (Unity Build)
 A Flip Away: Escape to Reality is a 2D puzzle-based game that allows the player to switch between platformer and top-down states. A Flip Away aims to make learning fun and engaging by utilizing fundamental physics concepts to solve each stage.
 
 ## Project Description
