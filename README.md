@@ -1,7 +1,12 @@
 # A-Flip-Away-Escape-To-Reality-Unity-Build
-A Flip Away: Escape to Reality is a 2D puzzle-based game that allows the player to switch between platformer and top-down states. The player must switch between states and interact with the world each state has to offer in order to escape from the experiment they were forced into. Each state has its own unique set of mechanics that the player must use to solve the puzzles in each stage. A Flip Away aims to make learning fun and engaging by utilizing fundamental physics concepts to solve each stage.
- 
-# Control Scheme (Topdown Mode)
+A Flip Away: Escape to Reality is a 2D puzzle-based game that allows the player to switch between platformer and top-down states. A Flip Away aims to make learning fun and engaging by utilizing fundamental physics concepts to solve each stage.
+
+## Project Description
+- This repository contains the build version of A Flip Away's Unity project, which was used as the final published version in the attached [itch.io](https://phloonn.itch.io/aflipaway) link in the repository.
+- The whole project was made in Unity3D with the design assets created via Adobe Photoshop and Blender, and sounds assets from free resource libraries. 
+
+
+## Control Scheme (Topdown Mode)
 | **_KeyPress_** |    **_Action_**    |
 |:--------------:|:------------------:|
 | W              | Move Up            |
@@ -15,7 +20,7 @@ A Flip Away: Escape to Reality is a 2D puzzle-based game that allows the player 
 | U              | Deploy Wind Shield |
 | Space Bar      | Jump               |
 
-# Control Scheme (Platformer Mode)
+## Control Scheme (Platformer Mode)
 | **_KeyPress_** |    **_Action_**    |
 |:--------------:|:------------------:|
 | A              | Move Left          |
