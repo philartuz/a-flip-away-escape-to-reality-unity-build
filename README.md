@@ -86,20 +86,6 @@ Two rounds of playtesting were conducted with student participants to assess lea
 
 ---
 
-## 🧑‍🎓 Target Audience
-
-Primarily high school or college students learning basic physics concepts. Also suitable for casual puzzle-platformer fans.
-
----
-
-## 🧩 Game Structure
-
-- Several **worlds**, each teaching a unique physics concept.
-- Each world contains **multiple stages** with increasingly complex puzzles.
-- Story-driven progression featuring the character **Tridi** and **Professor 2D**.
-
----
-
 ## 🧪 Playtesting & Results
 
 - **Version 1.0** and **2.0** tested with college students.
@@ -119,7 +105,6 @@ Key educational frameworks include:
 
 ---
 
-## 📜 License
 
 This project was developed for academic purposes. For inquiries or usage rights, please contact the authors.
 
@@ -131,9 +116,5 @@ Special thanks to:
 - **Mr. Gerick Jeremiah Niño N Go**  
 - **Mr. Jesus Alvaro C. Pato**  
 - **Mr. Butch Adrian A. Castro**  
-- All student playtesters
 
----
-
-_“Solve puzzles. Switch perspectives. Learn physics. You’re just a flip away from reality.”_
 
