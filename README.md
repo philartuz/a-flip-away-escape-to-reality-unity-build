@@ -39,7 +39,7 @@ Date: May 2025
 
 ---
 
-## 🧪 Core Mechanics
+## Core Mechanics
 
 - **State Switching**: Toggle between platformer and top-down movement modes.
 - **Gravity Manipulation**: Different gravity behavior depending on the current state.
@@ -53,7 +53,7 @@ Date: May 2025
 
 ---
 
-## 🎮 Controls
+## Controls
 
 | Action               | Platformer Mode | Top-Down Mode |
 |----------------------|----------------|----------------|
@@ -67,7 +67,7 @@ Date: May 2025
 
 ---
 
-## 🧠 Educational Impact
+## Educational Impact
 
 Two rounds of playtesting were conducted with student participants to assess learning outcomes. Players took pre- and post-tests on physics topics.
 
@@ -77,7 +77,7 @@ Two rounds of playtesting were conducted with student participants to assess lea
 
 ---
 
-## 🖥️ System Requirements
+## 🖥System Requirements
 
 - **OS**: Windows 10/11  
 - **Processor**: Intel i5 or equivalent  
@@ -86,7 +86,7 @@ Two rounds of playtesting were conducted with student participants to assess lea
 
 ---
 
-## 🧪 Playtesting & Results
+## Playtesting & Results
 
 - **Version 1.0** and **2.0** tested with college students.
 - Improvements made between versions included better UI, pause menu, feedback indicators, and bug fixes.
@@ -95,7 +95,7 @@ Two rounds of playtesting were conducted with student participants to assess lea
 
 ---
 
-## 📚 References
+## References
 
 Key educational frameworks include:
 - Game-Based Learning (GBL)
@@ -110,7 +110,7 @@ This project was developed for academic purposes. For inquiries or usage rights,
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Special thanks to:
 - **Mr. Gerick Jeremiah Niño N Go**  
