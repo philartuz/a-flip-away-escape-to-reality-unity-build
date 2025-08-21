@@ -7,7 +7,7 @@ Date: May 2025
 
 ## Project Description
 - This repository contains the build version of A Flip Away's Unity project, which was used as the final published version in the attached [itch.io](https://phloonn.itch.io/aflipaway) link in the repository.
-- The whole project was made in Unity3D with the design assets created via Adobe Photoshop and Blender, and sounds assets from free resource libraries. 
+- The whole project was made in Unity3D with the design assets created via Adobe Photoshop and Blender, and sounds assets from free resource libraries. All features and functionalities was coded in C# for Unity 
 
 
 ## Control Scheme (Topdown Mode)
